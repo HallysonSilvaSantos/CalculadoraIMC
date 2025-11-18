@@ -1,0 +1,5 @@
+Hallyson,1.7,63.0
+Kaua,2.0,80.0
+Yasmim,1.5,50.0
+Luana,1.68,56.0
+Felipe,2.1,95.0
